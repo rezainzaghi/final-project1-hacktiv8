@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalProject1</string>
+    <string name="add_data">Add Data</string>
+    <string name="input_note_title">Input Note Title</string>
+    <string name="input_note_description">Input Description</string>
+    <string name="Save_Data">SAVE DATA</string>
+</resources>
